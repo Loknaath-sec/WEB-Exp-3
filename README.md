@@ -34,8 +34,6 @@ Give command - "python manage.py runserver 8000" to use django server.
 Step 9:
 Enter the given credentials to sign in into django server.
 
-Step 10:
-Add some users according to the aim.
 
 ## Output:
 ![exp-3](https://github.com/Loknaath-sec/WEB-Exp-3/assets/145742558/9a12db83-a351-4442-970b-50fab419facb)
